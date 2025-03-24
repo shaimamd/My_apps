@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 st.title('🎈Happy World')
 
-st.write('Hello world:)')*
+st.write('Hello world:)')
 
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
